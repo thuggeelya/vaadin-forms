@@ -1,7 +1,7 @@
 ## Test task
 Given a page with a <i>TextField</i> and a <i>Button</i>.
 
-Button click increments TextField value. It also can be change manually.
+Button click increments TextField value. It also can be changed manually.
 
 Changes are being saved to the DB after every change.
 
